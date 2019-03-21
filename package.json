@@ -1,6 +1,6 @@
 {
   "name": "@knonginda/base-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "## How to use: 1. Just use `npm install --save @knonginda/base-icons` 2. Use the components in your file directly.",
   "main": "./dist/index.common.js",
   "scripts": {
@@ -11,7 +11,6 @@
   },
   "files": [
     "dist/index.common.js",
-    "dist/index.css",
     "package.json",
     "README.md"
   ],
