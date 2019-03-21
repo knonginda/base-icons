@@ -2,13 +2,13 @@
 
 ## Installation and Usage
 
-1. Just use npm install --save @bo/base-icon-product
+1. Just use npm install --save @knonginda/base-icons
 2. Now you can include the scripts by using following snippet:
 
 ```bash
 // Load components
-import '@bo/base-icons';
-import '@bo/base-icons/index.css';
+import '@knonginda/base-icons';
+import '@knonginda/base-icons/index.css';
 ```
 
 ## List of components

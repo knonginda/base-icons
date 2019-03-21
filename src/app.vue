@@ -51,7 +51,7 @@ export default {
   <ul class="icon-list">
     <li v-for="(icon, index) in productIcons" :key="index">
       <div class="icon">
-        <BaseIcon size="large" :name="icon"/>
+        <BaseIcon width="64" height="64" color="#0099d6" :name="icon"/>
       </div>
       <div class="icon-name">{{ icon }}</div>
     </li>
